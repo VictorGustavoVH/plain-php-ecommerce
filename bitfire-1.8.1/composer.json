@@ -1,0 +1,26 @@
+{
+    "name": "bitslip6/bitfire",
+    "type": "library",
+    "description": "Enterprise firewall, stop all bot/spam and manual attacks. OWASP top 10, with bot whitelist in <2ms",
+    "keywords": ["firewall", "security", "spam", "bot", "headers", "xss", "sqli", "csrf", "waf"],
+    "homepage": "https://github.com/bitslip6/bitfire",
+    "readme": "README.md",
+    "license": "AGPL-3.0",
+    "authors": [
+        {
+            "name": "Cory Marsh",
+            "email": "info@bitslip6.com",
+            "homepage": "http://bitfire.co/",
+            "role": "Architect"
+        }
+    ],
+    "support": {
+        "email": "info@bitslip6.com",
+        "issues": "https://github.com/bitslip6/bitfire/issues",
+        "chat": "https://discord.com/channels/793172132191928341/793172132673880065",
+        "wiki": "https://github.com/bitslip6/bitfire/wiki"
+    },
+    "require": {
+        "php": "^7.0.33"
+    }
+}
